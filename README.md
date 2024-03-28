@@ -13,7 +13,7 @@ This is a simple weather app built using HTML, JavaScript, and Tailwind CSS. It 
 To use the app, simply type in the name of a location in the search bar, and the app will provide autocomplete suggestions. Click on a suggestion or press enter to fetch the weather data for the selected location. Alternatively, click on the "Get Current Location" button to fetch weather data based on your current location.
 ## Preview
 
-![Weather App Preview](preview.png)
+![Weather App Preview](https://github.com/rishit-roars/weatherapp/blob/9d26303258ff75fd2950a97ece4c2b154866325a/Screenshot%202024-03-29%20at%2002.26.59.png)
 
 ## Installation
 
